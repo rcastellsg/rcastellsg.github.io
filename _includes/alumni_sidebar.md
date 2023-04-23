@@ -1,4 +1,4 @@
-## Fraser Lab Alumni
+## Coyote-Maestas Lab Alumni
 {% assign sorted = site.members | sort: "enddate" | reverse %}
 {% for member in sorted %}
 
@@ -7,7 +7,7 @@
 {% endif %}
 
 {% assign position = member.position | downcase %}
-{% if position contains "srtp" or position contains "intern" or position 
+{% if position contains "srtp" or position contains "intern" or position
   contains "sep" or position contains "visiting" or position contains "ucsf-usf" %}
 {% unless position contains "affiliate" %}
 {% continue %}
@@ -75,39 +75,7 @@ Subsequently: {{member.subsequent}} <br>
 {% endfor %}
 
 <br>
-## UCSF-USF Interns
-{% for undergraduate in sorted %}
 
-{% assign position = undergraduate.position | downcase %}
-{% unless position contains "ucsf-usf" %}
-{% continue %}
-{% endunless %}
-
-<hr>
-<div id = "{{undergraduate.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{undergraduate.name}}</strong> - <em>{{undergraduate.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
-
-{% if undergraduate.pronouns %}
-<em>{{undergraduate.pronouns}}</em><br>
-{% endif %}
-
-{% assign start = undergraduate.startdate | first | date:"%Y" %}
-{% assign end = undergraduate.enddate | last | date:"%Y" %}
-
-{% if start == end %}
-{{ start }}<br>
-{% else %}
-{{ start }} - {{ end }}<br>
-{% endif %}
-
-{% if undergraduate.subsequent %}
-Subsequently: {{undergraduate.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
-
-
-<br>
 ## Undergraduate Interns
 {% for undergraduate in sorted %}
 
@@ -145,39 +113,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 
 
 <br>
-## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
-{% for student in sorted %}
-
-{% assign position = student.position | downcase %}
-{% unless position contains "sep" %}
-{% continue %}
-{% endunless %}
-
-<hr>
-<div id = "{{student.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{student.name}}</strong><br>
-
-{% assign start = student.startdate | first | date:"%Y" %}
-{% assign end = student.enddate | last | date:"%Y" %}
-
-{% if start == end %}
-{{ start }}<br>
-{% else %}
-{{ start }} - {{ end }}<br>
-{% endif %}
-
-{% if student.pronouns %}
-<em>{{student.pronouns}}</em> <br>
-{% endif %}
-{% if student.subsequent %}
-Subsequently: {{student.subsequent}}<br>
-{% endif %}
-</p>
-</div> {% endfor %}
-
-
-<br>
-## Fraser Lab Visitors
+## Coyote-Maestas Lab Visitors
 {% for visitor in sorted %}
 
 {% assign position = visitor.position | downcase %}

@@ -22,12 +22,12 @@ group: contact
 <div class="col-md-4">
 
   <h4>James Fraser, Ph.D.</h4>
-  Professor<br>
+  Assistant Professor<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
   [California Institute of Quantitative Biosciences (QB3)](https://qb3.org)<br>
   600 16th Street, Genentech Hall Room S472E<br>
   San Francisco, CA 94143<br>
-  email: jfraser (at) fraserlab.com <br>
+  email: willow.coyote-maestas (at) ucsf.edu <br>
   tel: 415 502 1863
 
 </div>
@@ -63,7 +63,7 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 ### Once on campus, proceed to Genentech Hall:
 0. Complete the [Vendor/Visitor Campus COVID screener](https://ucsf.co1.qualtrics.com/jfe/form/SV_d6elP7DE78J4oFT)
 1. You will have to enter through Genentech Hall from the Koret Quad side (Red arrow on the map below).
-2. Sign in at security for a meeting with Dr. James Fraser (Office - Genentech Hall S472E).
+2. Sign in at security for a meeting with Dr. Willow Coyote-Maestas (Office - Byers Hall S472E).
 3. Take the elevator or staircase to the 4th floor.
 4. Walk west down the hall. The large windows facing the courtyard will be on your right. If the floor color changes to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back towards Genentech Hall.
 5. You will encounter an intersection. Make a left (south) and head towards the S401-484 area.

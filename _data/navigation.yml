@@ -14,13 +14,13 @@
   link: "/reviews"
   group: reviews
 
-- name: members
+- name: people
   link: "/members"
   group: members
 
-- name: teaching
-  link: "/courses"
-  group: courses
+- name: outreach
+  link: "/DEI"
+  group: DEI
 
 - name: philosophy
   link: "/philosophy"
@@ -37,7 +37,3 @@
 - name: contact
   link: "/contact"
   group: contact
-
-- name: private
-  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
-  group: private

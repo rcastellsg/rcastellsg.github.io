@@ -1,5 +1,5 @@
 ---
-title: Fraser Lab Compact, Philosophy, and Resources
+title: Coyote-Maestas Lab Compact, Philosophy, and Resources
 layout: default
 group: philosophy
 ---

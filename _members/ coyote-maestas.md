@@ -3,8 +3,8 @@ name: Willow Coyote-Maestas, Ph.D.
 startdate: [2021-02-01]
 enddate: []
 image: /static/img/members/Coyote-Maestas.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/Coyote-Maestas_pb.jpg  #365 x 365 pixels, 72 dpi
-position: "Affiliate, [HHMI Hanna Gray](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#Fellows) and <br>[QBI Fellow](https://fellows.ucsf.edu/current-fellows#:~:text=QBI%20Fellows%3A%20)"
+#altimage: /static/img/members/Coyote-Maestas_pb.jpg  #365 x 365 pixels, 72 dpi
+position: "Principal Investigator"
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: willow.coyote-maestas (at) ucsf.edu #Preferred public email address

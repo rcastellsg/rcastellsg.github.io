@@ -1,5 +1,5 @@
 ---
-title: Research in the Fraser Lab
+title: Research in the Coyote-Maestas Lab
 layout: default
 group: research
 ---
