@@ -9,8 +9,9 @@ group: research
 # Our research
 
 Membrane proteins are the main conduit through which cells interact with and sense the outside world. They determine key mechanisms of normal and abnormal physiology, interact with most drugs, and are involved in many diseases. Mutations in membrane proteins cause disease, disrupt treatments, and enable evolution. However, because membrane proteins are technically challenging to study, we understand far less about them than their cytosolic counterparts. We are pushing forward membrane protein biology by developing integrated models of how mutations, genes, and drugs change membrane protein structure, function, cell biology, and evolution.
-#### Our long term develop a deep and comprehensive molecular, cellular, and physiological understanding for how membrane proteins allows us to interact with the world around us, how they break to cause the diseases that ail us, and how we can better treat these diseases with therapeutics.
-<br>
+#### Our long term develop a mechanistic molecular, cellular, and physiological understanding for how membrane proteins allows us to interact with the world around us, how they break to cause the diseases that ail us, and how we can better treat these diseases with therapeutics.
+![What inspires us do!](static/img/logo/inspiration.png){:style="max-width: 100%; height: auto;"}
+
 <br>
 
 </div>
@@ -40,7 +41,7 @@ GPCRs are cellular sensors and common drug targets. Through diverse mechanisms, 
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
+<img class="img-fluid" src="/static/img/pub/gpcr.png" alt="GPCR">
 </div>
 </div>
 <div class="row">
@@ -54,7 +55,7 @@ A large yet finite number of transporters evolved to move nearly infinite possib
 
 <div class="col-md-3 order-md-2 align-self-center">
 
-<img class="img-fluid" src="/static/img/pub/2019_li_pellegrino.jpg" alt="antibiotic">
+<img class="img-fluid" src="/static/img/pub/transporters.png" alt="transporter_biology">
 </div>
 </div>
 <div class="row">

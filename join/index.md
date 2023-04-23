@@ -7,7 +7,7 @@ group: join
 # Join the Coyote-Maestas Lab!
 Our lab welcomes applicants regardless of race, gender identity, sexual orientation, age, or family commitments. We strike to maintain a supportive and collaborative culture where we support each other through thick and thin, grow as scientists, have fun, and do the coolest science we can!
 
-##### Read more about [our lab compact and philosophy.](/philosophy/)
+##### Read more about [our philosophy.](/philosophy/)
 
 We are actively looking for motivated and talented people to join our team! We would love to hear about your scientific background, long term goals and how we may work together to get you there. If interested please send your CV to [Dr. Willow Coyote-Maestas](/contact).
 

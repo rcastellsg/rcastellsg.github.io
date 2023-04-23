@@ -12,7 +12,7 @@ scholar: bOu5znYAAAAJ
 website: https://matthewkhoward.com
 UCSF: matthew.howard
 twitter: matthewkhoward
-linkedin: matthew-howard-5098a5197/
+linkedin: matthew-howard-5098a5197
 github: matthewkarlhoward
 orcid: 0000-0002-6212-395X
 description: "Matt’s research focuses on developing and using mutational scanning platforms to study

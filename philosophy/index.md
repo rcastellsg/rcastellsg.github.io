@@ -1,5 +1,5 @@
 ---
-title: Coyote-Maestas Lab Compact, Philosophy, and Resources
+title: Coyote-Maestas Philosophy
 layout: default
 group: philosophy
 ---
