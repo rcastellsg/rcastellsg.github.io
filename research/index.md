@@ -12,7 +12,7 @@ Membrane proteins are the main conduit through which cells interact with and sen
 #### Our long term develop a mechanistic molecular, cellular, and physiological understanding for how membrane proteins allows us to interact with the world around us, how they break to cause the diseases that ail us, and how we can better treat these diseases with therapeutics.
 </div>
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/genotype_phenotype.png" alt="GPCR">
+<img class="img-fluid" src="/static/img/pub/inspiration.png" alt="bigpicture">
 
 
 <br>
