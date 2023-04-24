@@ -39,7 +39,7 @@ To understand how membrane protein residues change in evolution and disease, we 
 
 ### Molecular understanding for how receptors allow our cells to respond to sensation and therapeutics
 
-<div class="col-md-7 order-md-2">
+<div class="col-md-5 order-md-2">
 GPCRs are cellular sensors and common drug targets. Through diverse mechanisms, mutations within GPCRs allow cells to evolve responses to new stimuli, break responses in disease, and disrupt drug efficacy. Complex mixtures of ligands activate GPCRs through multiple downstream effectors and signaling pathways making integrated biology necessary. Computational biologists develop models of GPCR activation and pharmacogenomics, however, we lack experimental approaches to test these models.  Experimentalists typically focus on one GPCR at a time, with a couple of mutations and ligands, while looking at a small fraction of their impacts using conventional structural biology or cell biology methods. We are developing assays to identify how mutations, knocked-down genes, and ligands change GPCRs activation, signaling, and trafficking across all GPCRs.  We are using these methods to learn how complex mixtures of ligands activate GPCRs, how sensory GPCRs change through evolution, and how mutations alter GPCR pharmacology and cause disease.
 
 </div>
@@ -57,7 +57,7 @@ GPCRs are cellular sensors and common drug targets. Through diverse mechanisms, 
 A large yet finite number of transporters evolved to move nearly infinite possible polar nutrients, small molecules, and drugs in and out of cells. Their role in exchanging solutes across the membrane makes transporters critical for physiology and pharmacology, illustrated by many disease-causing and therapeutic disrupting variants. Despite their importance, we do not know many transporters’ roles in physiology, what they transport, how they transport, or what determines a transporter’s substrate specificity. A lack of scalable mechanistic assays limits basic and applied transporter biology. We are addressing this challenge using genetic screens across the transporter-ome to uncover their roles in physiology. In follow-up experiments on specific transporters, we will do mechanistic mutational scans and structural experiments to develop structure-functional models of transporters. To determine pathogenicity and mechanisms of action, we will explore the functional impacts of human polymorphisms. From mechanistic genetic screens of membrane proteins, we are learning the physiological roles and structure-function mechanisms of an understudied class of proteins and actionable guidelines for clinical geneticists and pharmacists.  
 </div>
 
-<div class="col-md-3 order-md-2 align-self-center">
+<div class="col-md-5 order-md-2 align-self-center">
 
 <img class="img-fluid" src="/static/img/pub/transporters.png" alt="transporter_biology">
 </div>
