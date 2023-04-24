@@ -65,7 +65,7 @@ The Coyote-Maestas lab recognizes that [the University of California San Francis
 1. You will have to enter through Genentech Hall from the Koret Quad side (Red arrow on the map below).
 2. Sign in at security for a meeting with Dr. Willow Coyote-Maestas (Office - Byers Hall 403B).
 3. Take the elevator or staircase to the 4th floor.
-4. Walk east down the hall. The floor color will change to grey as you are now in Byers Hall. Turn around and walk back towards Genentech Hall.
+4. Turn left at the top of the stairs or left coming out of the elevator and Walk east down the hall. The floor color will change to grey as enter in Byers Hall, continue going forward.
 5. You will encounter an intersection. Make a right (south) and head towards the 402-404 area.
 6. You should find a break room. Willow's office is  straight ahead. The Coyote-Maestas lab is on the right.
 
