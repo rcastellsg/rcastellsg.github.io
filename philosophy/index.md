@@ -11,8 +11,6 @@ group: philosophy
 Overall, our mission is to work together to do the best science while being rigorous, having fun, and being helpful to others inside and outside the lab. We push ourselves to come up with creative solutions to challenging problems or bring new perspectives to well-studied systems. We strive to share all data we generate, make the methods we use reproducible, and teach others what we learn.
 While we aim to do brilliant and cutting edge science, our mission is to also foster a supportive and welcoming lab culture where we mentor and help those who are earlier on the path. In other words beyond doing amazing, cool science, our mission is to help train the next generation of scientists. From a technical perspective, our goal is to enable entirely new types of science with our scalable approaches. Using these new technologies we will uncover fundamental principles of membrane proteins, develop holistic models across scales for how mutations and molecules impact membrane proteins from the molecular to organismal level, and address the diseases that ail us. Overall, our goal is to do the best science we can while helping others, having fun,
 and growing as people and scientists.
-</div>
-</div>
 
 
 ### Values
@@ -26,8 +24,6 @@ We are dedicated to being rigorous scientists in which we do not over interprate
 From another perspective a core value is to maintain flexibility for people's personal life and helping people move on when it makes the most sense for their personal and professional life - the needs and well being of lab members always come before the interests of the lab. UCSF and it's research labs should better resemble the communities in which it sits. Unfortunately currently this is of coruse not the case, we strive to welcome folks from all background and foster a supportive and diverse community of scientists within the lab. A diverse lab also provides the opportunity to have new perspectives and creative solutions to intractable problems. We aim to build a socially and scientifically diverse team in which we can work together to tackle the hardest problems in science while growing as people as we learn about different cultures. Last but absolutely not least, we value having fun and taking a joyful approach to science. Science should be filled with joy as we take on hard problems, generate beautiful data, and learn how to detangle challenging problems. If this sounds appealing and fun, come do science with us, and join our wonderful [team](https://www.wcoyotelab.com/join/)!
 
 
-</div>
-</div>
 
 ### Mentorship
 
