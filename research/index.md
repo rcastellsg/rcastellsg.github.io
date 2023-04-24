@@ -10,7 +10,7 @@ group: research
 
 Membrane proteins are the main conduit through which cells interact with and sense the outside world. They determine key mechanisms of normal and abnormal physiology, interact with most drugs, and are involved in many diseases. Mutations in membrane proteins cause disease, disrupt treatments, and enable evolution. However, because membrane proteins are technically challenging to study, we understand far less about them than their cytosolic counterparts. We are pushing forward membrane protein biology by developing integrated models of how mutations, genes, and drugs change membrane protein structure, function, cell biology, and evolution.
 #### Our long term develop a mechanistic molecular, cellular, and physiological understanding for how membrane proteins allows us to interact with the world around us, how they break to cause the diseases that ail us, and how we can better treat these diseases with therapeutics.
-![What inspires us do!](static/img/logo/inspiration.png){:style="max-width: 100%; height: auto;"}
+![What inspires us do!](/static/img/pub/genotype_phenotype.png){:style="max-width: 100%; height: auto;"}
 
 <br>
 
