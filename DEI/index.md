@@ -14,11 +14,13 @@ Willow Coyote-Maestas is mixed race (Jicarilla Apache Native descendent, Xicano,
 Native Americans are massively underrepresented within science for many reasons. A fundamental challenge to Native scientists is many of us never meet another Native American within our disciplines. With a team of UCSF staff, students, and faculty, Willow organized a basic biology-focused event, The Full Circle Native Symposium, which was the first of its kind symposium for Native discovery biologists. Full Circle aims to build community amongst Native scientists, provide a platform to present work, and give trainees meaningful opportunities.  In 2021, we [virtually](https://www.youtube.com/watch?v=4VPI4GR8zGs) brought together nearly 20 Native scientists from across the country and tribes, including undergraduates, grad students, postdocs, junior, and elder (emeritus) faculty. Our second Full Circle Symposium was held in-person at UCSF in January 2023, in which we brought together over 20 Native scientists from across the country and from different tribes. Thus far this symposium has provided a much needed space and community for Native scientists to share their identities and science.
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/genotype_phenotype.png" alt="genotype phenotype landscape">
+<img class="img-fluid" src="/static/img/courses/Full_Circle_Poster_23.jpeg" alt="Full Circle 2023 Poster">
 
-<img class="img-fluid mx-auto d-block" src="/static/img/courses/full_circle_23.jpeg" alt="Full Circle 2023">
 
 Moving forward, we are exploring how to start holding this event in other areas of the country where there are larger Native populations with support from institutions within those communities
+<img class="img-fluid mx-auto d-block" src="/static/img/courses/full_circle_23.jpeg" alt="Full Circle 2023">
+
+
 
 
 
