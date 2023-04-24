@@ -39,7 +39,7 @@ To understand how membrane protein residues change in evolution and disease, we 
 
 ### Molecular understanding for how receptors allow our cells to respond to sensation and therapeutics
 
-<div class="col-md-5 order-md-2">
+<div class="col-md-7 order-md-2">
 GPCRs are cellular sensors and common drug targets. Through diverse mechanisms, mutations within GPCRs allow cells to evolve responses to new stimuli, break responses in disease, and disrupt drug efficacy. Complex mixtures of ligands activate GPCRs through multiple downstream effectors and signaling pathways making integrated biology necessary. Computational biologists develop models of GPCR activation and pharmacogenomics, however, we lack experimental approaches to test these models.  Experimentalists typically focus on one GPCR at a time, with a couple of mutations and ligands, while looking at a small fraction of their impacts using conventional structural biology or cell biology methods. We are developing assays to identify how mutations, knocked-down genes, and ligands change GPCRs activation, signaling, and trafficking across all GPCRs.  We are using these methods to learn how complex mixtures of ligands activate GPCRs, how sensory GPCRs change through evolution, and how mutations alter GPCR pharmacology and cause disease.
 
 </div>
