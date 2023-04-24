@@ -11,15 +11,7 @@ group: philosophy
 We have built a space where we can work together to do the best science while being rigorous, having fun, and being helpful to others inside and outside the lab. Beyond doing amazing, cool science, our mission is to help train the next generation of scientists.
 
 ### Values
-As a lab we value:
-
-**open science**
-•	Share data freely
-•	Develop protocols which are reproducible and easily followed
-•	Post preprints immediately upon submission
-•	Share our plans with our scientific fields
-•	Present unpublished data when possible at conferences
-•	Teach others how to use our technology
+**Open science:** Open science allows us to move faster, be more collaborate, and waste less effort. With these goals in mind, we share our data freely, develop reproducible and accessible protocols, post preprints immediately upon submission, share our plans with our scientific fields, present data possible possible at conferences, and teach others how to use our technologies.
 
 
 **collaboration**
