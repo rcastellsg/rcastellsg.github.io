@@ -1,7 +1,7 @@
 ---
 name: Patrick Rockefeller Grimes
 startdate: [2022-01-01]
-enddate: []
+enddate: #[YYYY-MM-DD]
 image: /static/img/members/Rockefeller.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/Macdonald_pb.jpg #365 x 365 pixels, 72 dpi
 position: Specialist
