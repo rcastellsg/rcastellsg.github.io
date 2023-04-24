@@ -1,5 +1,5 @@
 ---
-title: "Probing ion channel functional architecture and domain recombination compatibility by massively parallel domain insertion profiling"
+title: "Determinants of trafficking, conduction, and disease within a K+ channel revealed through multiparametric deep mutational scanning"
 authors: "**Willow Coyote-Maestas**, David Nedrud, Yungui He, Daniel Schmidt"
 journal: "Elife"
 pub_date: "2022-05-31"
