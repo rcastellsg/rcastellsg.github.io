@@ -1,6 +1,6 @@
 ---
 title: "Probing ion channel functional architecture and domain recombination compatibility by massively parallel domain insertion profiling"
-authors: "**Willow Coyote-Maestas**, David Nedrud, Antonio Suma, Yungui He, Kenneth A Matreyek, Douglas M Fowler, Vincenzo Carnevale, Chad L Myers, Daniel Schmidt
+authors: "**Willow Coyote-Maestas**, David Nedrud, Antonio Suma, Yungui He, Kenneth A Matreyek, Douglas M Fowler, Vincenzo Carnevale, Chad L Myers, Daniel Schmidt"
 journal: "Nature communications"
 pub_date: "2021-12-18"
 image: "/static/img/pub/2022_macdonald.png"
