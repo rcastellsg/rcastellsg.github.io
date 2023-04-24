@@ -24,5 +24,5 @@ Near the end of his PhD, Willow moved to the SF Bay Area to be close to family f
 Overall, Willow is inspired to develop a deep and comprehensive molecular, cellular, and physiological understanding for how membrane proteins allows us to interact with the world around us, how they break to cause the diseases that ail us, and how we can better treat these diseases with therapeutics. More broadly Willow wants to keep growing, learning, and having fun through the scientific endeavor!
 
 
-Outside of lab Willow enjoys spending time with dear friends and families, creating and listening to music, enjoying and making delicious food, meandering through nature, and whatever hobbies catch his interest."
+Outside of lab Willow enjoys spending time with dear friends and family, creating and listening to music, enjoying and making delicious food, and meandering through nature."
 ---

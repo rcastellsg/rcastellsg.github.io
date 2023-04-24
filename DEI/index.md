@@ -4,31 +4,23 @@ layout: default
 group: DEI
 ---
 
-# Coyote-Maestas Affiliated Outreach
+# Coyote-Maestas Affiliated Outreach, Diversity, Equity, and Inclusion Work
 
-Throughout all stages of his training Willow Coyote-Maestas has been the direct beneficiary of support for underrepresented minorities. These experiences and Willow's identity of being mixed race (Jicarilla Apache Native descendent, Xicano, and White) has inspired Willow to be involved in many outreach activities starting in graduate
+Willow Coyote-Maestas is mixed race (Jicarilla Apache Native descendent, Xicano, and White) and has been the direct beneficiary of support for underrepresented minorities at the undergraduate, graduate, and fellow stage. Being a part of diverse cohorts of brilliant scientists, particularly the [HHMI Gilliam Program](https://www.hhmi.org/science-education/programs/gilliam-fellows-program) inspired Willow to try to make science supportive and inclusive to people from diverse backgrounds as well as work to make it so benefits of scientific discovery and breakthroughs are more broadly shared. Below is a small sampling of some of the work Willow is involved in.
 
-## Full Circle Native in Biology Symposium
-Fluency in multiple biophysical methods is often critical for answering mechanistic questions. To train the next generation of biophysicists at UCSF, we have decided to alter the traditional didactic structure by creating a new 6 week “Macromolecular Methods” class that places data collection at the beginning of the course.
+### Full Circle Native in Biology Symposium
+Native Americans are massively underrepresented within science for many reasons. A fundamental challenge to Native scientists is many of us never meet another Native American within our disciplines. With a team of UCSF staff, students, and faculty, Willow organized a basic biology-focused event, The Full Circle Native Symposium, which was the first of its kind symposium for Native discovery biologists. Full Circle aims to build community amongst Native scientists, provide a platform to present work, and give trainees meaningful opportunities.  In 2021, we virtually brought together nearly 20 Native scientists from across the country and tribes, including undergraduates, grad students, postdocs, junior, and elder (emeritus) faculty. Our second Full Circle Symposium was held in-person at UCSF in January 2023, in which we brought together over 20 Native scientists from across the country and from different tribes. Thus far this symposium has provided a much needed space and community for Native scientists to share their identities and science.
+</div>
+<div class="col-md-5 order-md-2 align-self-center">
+<img class="img-fluid" src="/static/img/courses/Full_Circle_Poster_23.jpeg" alt="Full Circle 2023 Poster">
+</div>
+</div>
 
-- [Macro Methods 2017](/courses/methods_2017/)
-- [Macro Methods 2018](/courses/methods_2018/)
-- [Macro Methods 2019](/courses/methods_2019/)
-- [Macro Methods 2020/21](/courses/methods_2020/)
-- [Macro Methods 2021/22](/courses/methods_2021/)
-- [Macro Methods 2022/23](/courses/methods_2022/)
+<img class="img-fluid mx-auto d-block" src="/static/img/courses/full_circle_23.jpeg" alt="Full Circle 2023">
 
-
-## Atlas of Variant Effect Outreach, Diversity, Equity, and Inclusion Committee
-The goal for Inquiry Immersion and the interprofessional minicourses is to help first year students in the healthcare professions shift their conception of medicine as a series of facts to a vision of medical practice as consistent engagement with an ever-evolving and imperfect body of knowledge.  Focused minicourses offer students the chance to take a deep dive into a controversy or dilemma and explore the boundaries of existing research and scholarship with expert researchers.
-
-Why is it so hard to design new small molecule drugs: Structure-based drug design promises to revolutionize drug discovery, yet despite decades of promise, progress remains intermittent. This course will give students an appreciation for the experimental and computational advances that have led to this optimism, while also pointing out the limitations that currently prevent completely unattended design.
+Moving forward, we are exploring how to start holding this event in other areas of the country where there are larger Native populations with support from institutions within those communities
 
 
-- [2020 - Drug Design Inquiry minicourse](/courses/inquiry_2020/)
-- [2021 - Drug Design Inquiry minicourse](/courses/inquiry_2021/)
-- [2022 - Drug Design Inquiry minicourse](/courses/inquiry_2022/)
 
-Personal Genome Interpretation in the post-AlphaFold world: Alphafold is one of the buzziest breakthroughs of recent years. What does it mean to predict a structure of a protein and how is that useful for: 1) designing new drugs and 2) interpreting genomes?
-
-- [2023 - Drug Design Inquiry minicourse](/courses/inquiry_2023/)
+### Atlas of Variant Effect Outreach, Diversity, Equity, and Inclusion Committee
+One of our primary research foci is to characterize the impact of genetic variation on human disease and pharmacology. Because this goal is too large for a single research group, an international consortium, the [Atlas of Variant Effect](https://www.varianteffect.org), was formed to guide these efforts. However, genetics, in general, and the study of genetic variation in disease, have a dark history interwoven with eugenics and exploitation of Black and Native/Indigenous people. In contrast, the beneficiaries of genetics and precision medicine have been predominantly people of European ancestry. As such, we must be careful with how we approach our studies, that diverse perspectives and people are involved in the studies, and that translational benefits of mutational scanning reach all people. For these reasons and my experience in DEI work outlined above, Willow is a founding and continuing co-director of AVE's Outreach, Diversity, and Inclusions Committee. The committee’s goals are to diversify the field, demonstrate how unbiased mutational scanning can address inequities in precision medicine, and start a discussion on how to center DEI within our research.
