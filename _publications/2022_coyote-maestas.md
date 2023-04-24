@@ -2,7 +2,7 @@
 title: "Probing ion channel functional architecture and domain recombination compatibility by massively parallel domain insertion profiling"
 authors: "**Willow Coyote-Maestas**, David Nedrud, Yungui He, Daniel Schmidt"
 journal: "Elife"
-pub_date: "2021-12-18"
+pub_date: "2022-05-31"
 image: "/static/img/pub/2022_macdonald.png"
 pmid: "35639599"
 pmcid: "PMC9273215"
