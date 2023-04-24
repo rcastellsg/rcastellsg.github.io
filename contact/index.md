@@ -1,10 +1,10 @@
 ---
-title: Contact the Fraser Lab
+title: Contact the Coyote-Maestas Lab Lab
 layout: default
 group: contact
 ---
 
-# Contact the Fraser Lab
+# Contact the Coyote-Maestas Lab
 
 
 <div class="row">
@@ -13,29 +13,29 @@ group: contact
 
   <h4>Lab Area </h4>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  600 16th Street, Genentech Hall Room S476<br>
-  San Francisco, CA 94143<br>
-  tel: 415 502 3488
+  600 16th Street, Byers Hall Room 404<br>
+  San Francisco, CA 94158<br>
+  tel: tbd
 
 </div>
 
 <div class="col-md-4">
 
-  <h4>James Fraser, Ph.D.</h4>
+  <h4>Willow Coyote-Maestas, Ph.D.</h4>
   Assistant Professor<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
   [California Institute of Quantitative Biosciences (QB3)](https://qb3.org)<br>
-  600 16th Street, Genentech Hall Room S472E<br>
-  San Francisco, CA 94143<br>
+  1700 4th Street, Byers Hall Room 403B<br>
+  San Francisco, CA 94158<br>
   email: willow.coyote-maestas (at) ucsf.edu <br>
-  tel: 415 502 1863
+  tel: tbd
 
 </div>
 
 <div class="col-md-4">
 
   <h4> Steve Ha</h4>
-  Faculty Support Analyst to Dr. James Fraser and others<br>
+  Faculty Support Analyst to Dr. Willow Coyote-Maestas and others<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
   email: Steve.Ha (at) ucsf.edu<br>
   tel: 415 502-8084 <br>
@@ -46,7 +46,7 @@ group: contact
 
 ## Land Acknowledgement Statement
 
-The Fraser lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our [full statement](/land_ack).
+The Coyote-Maestas lab recognizes that [the University of California San Francisco sits on the unceded land of the Ramaytush Ohlone (pronounced Rah-mah-tush O-lone-ee) peoples, the original inhabitants of the San Francisco Peninsula](https://diversity.ucsf.edu/ucsf-land-acknowledgment). As settlers on this land, we want to recognize the historic, and ongoing, discrimination and violence inflicted upon Indigenous people in North America. Please read our and Fraser lab's [full statement](/land_ack).
 
 # Directions to the Fraser Lab
 ### The Mission Bay Campus can be reached:  
@@ -63,10 +63,10 @@ The Fraser lab recognizes that [the University of California San Francisco sits 
 ### Once on campus, proceed to Genentech Hall:
 0. Complete the [Vendor/Visitor Campus COVID screener](https://ucsf.co1.qualtrics.com/jfe/form/SV_d6elP7DE78J4oFT)
 1. You will have to enter through Genentech Hall from the Koret Quad side (Red arrow on the map below).
-2. Sign in at security for a meeting with Dr. Willow Coyote-Maestas (Office - Byers Hall S472E).
+2. Sign in at security for a meeting with Dr. Willow Coyote-Maestas (Office - Byers Hall 403B).
 3. Take the elevator or staircase to the 4th floor.
-4. Walk west down the hall. The large windows facing the courtyard will be on your right. If the floor color changes to grey, you have gone the wrong way and are now in Byers Hall. Turn around and walk back towards Genentech Hall.
-5. You will encounter an intersection. Make a left (south) and head towards the S401-484 area.
-6. You should find a break room. James's office is through the clear doors straight ahead. The Fraser lab is on the right.
+4. Walk east down the hall. The floor color will change to grey as you are now in Byers Hall. Turn around and walk back towards Genentech Hall.
+5. You will encounter an intersection. Make a right (south) and head towards the 402-404 area.
+6. You should find a break room. Willow's office is  straight ahead. The Coyote-Maestas lab is on the right.
 
 <img class="img-fluid" src="/static/img/map_to_mission_bay.png" alt="Map of Mission Bay">
