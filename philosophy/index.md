@@ -8,22 +8,44 @@ group: philosophy
 <div class="row">
 </div>
 ### Mission
-Overall, our mission is to work together to do the best science while being rigorous, having fun, and being helpful to others inside and outside the lab. We push ourselves to come up with creative solutions to challenging problems or bring new perspectives to well-studied systems. We strive to share all data we generate, make the methods we use reproducible, and teach others what we learn.
-While we aim to do brilliant and cutting edge science, our mission is to also foster a supportive and welcoming lab culture where we mentor and help those who are earlier on the path. In other words beyond doing amazing, cool science, our mission is to help train the next generation of scientists. From a technical perspective, our goal is to enable entirely new types of science with our scalable approaches. Using these new technologies we will uncover fundamental principles of membrane proteins, develop holistic models across scales for how mutations and molecules impact membrane proteins from the molecular to organismal level, and address the diseases that ail us. Overall, our goal is to do the best science we can while helping others, having fun, and growing as people and scientists.
-
+We have built a space where we can work together to do the best science while being rigorous, having fun, and being helpful to others inside and outside the lab. Beyond doing amazing, cool science, our mission is to help train the next generation of scientists.
 
 ### Values
-As a lab we value **open science**, **collaboration**, **rigor**, **accountability**, **flexibility**, **diversity**, **creativity**, and **joy**. We prioritize open science by sharing our data freely, developing protocols which are reproducible and easily followed, we post preprints immediately upon submission, we share our plans with our scientific fields, and we present unpublished data when possible at conferences. Furthermore, we put our science first and while sometimes we may aim to publish in the fancy journals (you know what we are talking about), we put sharing science first, and see other lab's concordant work as opportunities to ensure we are confident in our results and opportunities for collaboration. The big questions of science are too big for any one lab and we relish the opportunity to work with others outside of our lab to broaden our expertise and tell more satisfying and comprehensive stories. We also love to collaborate to teach others how to do our technologies as it provides opportunity to grow our field and science. Within the lab, we value building a collaborative team in which we all work together on projects while getting to maintain independent projects. This approach provides opportunities to learn but also many opportunities to contribute without concern for competition between lab members. In general, aim to minimize competition as it slows down science and makes this marvelous pursuit less fun!
+As a lab we value **open science**, **collaboration**, **rigor**, **accountability**, **flexibility**, **diversity**, **creativity**, and **joy**.
 
 
+•	Share data freely
+•	Develop protocols which are reproducible and easily followed
+•	Post preprints immediately upon submission
+•	Share our plans with our scientific fields
+•	Present unpublished data when possible at conferences
+•	Teach others how to use our technology
 
-We are dedicated to being rigorous scientists in which we do not over interprate our data, we apply robust statistical tests to our findings, and work with collaborators to develop holistic and rigorous stories where we test hypotheses from many angles. In our science, we try to develop and test hypothesis in the context of the scientific literature even if it means we are wrong. If and when we are wrong or make mistakes, we will be immediately accountable for our actions. We aim to embrace our mistakes and use them as opportunities to learn. Similarly, we expect lab members to be accountable for their mistakes so we can maintain an extremely high level of rigor and transparency. Sometimes our projects take unexpected turns or we have surprising results - these are often the best parts of science! As such we hold closely a value of flexibility to follow the scientific journey and the data where it may take us to tell a satisfying and beautiful scientific story.
+
+We put our science first and while sometimes we may aim to publish in the fancy journals (you know what we are talking about), we put sharing science first, and see other lab’s concordant work as opportunities to ensure we are confident in our results and opportunities for collaboration. The big questions of science are too big for any one lab and we relish the opportunity to work with others outside of our lab to broaden our expertise and tell more satisfying and comprehensive stories.
+
+•	Work together as a lab while also maintaining independent projects
+This approach provides opportunities to learn but also many opportunities to contribute without concern for competition between lab members. In general, aim to minimize competition as it slows down science and makes this marvelous pursuit less fun!
+
+•	Avoid over interpreting data
+•	Consider our work in the context of the broader scientific literature
+We apply robust statistical tests to our findings, and work with collaborators to develop holistic and rigorous stories where we test hypotheses from many angles. We consider the context of the scientific literature even if it means we are wrong.
 
 
-From another perspective a core value is to maintain flexibility for people's personal life and helping people move on when it makes the most sense for their personal and professional life - the needs and well being of lab members always come before the interests of the lab. UCSF and it's research labs should better resemble the communities in which it sits. Unfortunately currently this is of coruse not the case, we strive to welcome folks from all background and foster a supportive and diverse community of scientists within the lab. A diverse lab also provides the opportunity to have new perspectives and creative solutions to intractable problems. We aim to build a socially and scientifically diverse team in which we can work together to tackle the hardest problems in science while growing as people as we learn about different cultures. Last but absolutely not least, we value having fun and taking a joyful approach to science. Science should be filled with joy as we take on hard problems, generate beautiful data, and learn how to detangle challenging problems. If this sounds appealing and fun, come do science with us, and join our wonderful [team](https://www.wcoyotelab.com/join/)!
+•	Embrace our mistakes and use them as opportunities to learn
+If and when we as a lab are wrong or make mistakes, we will be immediately accountable for our actions. Similarly, we expect lab members to be accountable for their mistakes so we can maintain an extremely high level of rigor and transparency. Sometimes our projects take unexpected turns or we have surprising results - these are often the best parts of science!
 
 
+•	Maintain flexibility for people’s personal lives
+•	Allow trainees to keep their research programs when they start new labs
+The needs and well-being of lab members always come before the interests of the lab. We encourage and expect lab members to enjoy and develop their personal lives and find the balance that will lead to long-term happiness and satisfaction, which contributes to a positive research environment. It is important to help people move on when it makes the most sense for their personal and professional life and at that time, it is also important that they feel they can ‘take’ their research program with them as they start independent careers.  
 
-### Mentorship
 
-Diversity of previous research experiences, socioeconomic, racial, and gender backgrounds means everyone comes in with different bases of knowledge and experience. Embracing diversity means meeting people where they are at, helping them get to where they want to go, and amplifying their strengths. We center meeting mentees where they are at in my mentoring. Some people seek frequent, specific feedback, whereas others want total freedom. Willow's approach to mentorship is to tailor his interactions dependent on experience, background, and career goals. We firmly believe in accountability, self-determination, and building a supportive environment for our lab. All this together means that Willow will work with mentees to figure out what they need, how much support they want, and what steps they need to take to grow as scientists and people. We encourage developing and taking ownership of independent projects for all mentees. Willow looks forward to the day when he can help others launch their independent research careers, at which point he will let them ‘take’ their research with them. Beyond science, we encourage and expect lab members to enjoy and develop their personal lives and find the balance that will lead to long-term happiness and satisfaction, which contributes to a positive research environment.
+•	Welcome folks from all backgrounds
+•	Foster a supportive and diverse community of scientists within the lab
+
+
+UCSF and its research labs should better resemble the communities in which it sits. Adding more diversity to our lab provides us the opportunity to have new perspectives and creative solutions to the problems we think about. We aim to build a socially and scientifically diverse team in which we can work together to tackle the hardest problems in science while growing as people as we learn about different cultures.
+
+•	Having fun and taking a joyful approach to science.
+Science should be filled with joy as we take on hard problems, generate beautiful data, and learn how to detangle challenging problems. If this sounds appealing and fun, come do science with us, and join our wonderful team!
