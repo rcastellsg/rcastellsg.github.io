@@ -13,7 +13,7 @@ group: contact
 
   <h4>Lab Area </h4>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
-  600 16th Street, Byers Hall Room 404<br>
+  1700 4th Street, Byers Hall Room 404<br>
   San Francisco, CA 94158<br>
   tel: tbd
 
