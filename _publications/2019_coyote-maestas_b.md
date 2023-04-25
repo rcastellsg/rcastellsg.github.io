@@ -1,6 +1,6 @@
 ---
 title: "Targeted insertional mutagenesis libraries for deep domain insertion profiling"
-authors: "**Willow Coyote-Maestas**, David Nedrud, Steffan Okorafor, Yungui He, Daniel Schmidt"
+authors: "**Willow Coyote-Maestas***, David Nedrud*, Steffan Okorafor, Yungui He, Daniel Schmidt"
 journal: "Nucleic Acids Research"
 pub_date: "2019-11-20"
 image: "/static/img/pub/spine.jpeg"
