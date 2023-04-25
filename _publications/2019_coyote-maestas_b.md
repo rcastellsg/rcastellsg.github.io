@@ -4,8 +4,8 @@ authors: "**Willow Coyote-Maestas***, David Nedrud*, Steffan Okorafor, Yungui He
 journal: "Nucleic Acids Research"
 pub_date: "2019-11-20"
 image: "/static/img/pub/spine.jpeg"
-pmid: "31799630"
-pmcid: "PMC6954404"
+pmid: "31745561"
+pmcid: "PMC6954442"
 #biorxiv_version: "2022.07.26.501589v1"
 pdf: #"http://cdn.fraserlab.com/publications/2023_Macdonald.pdf"
 github:
