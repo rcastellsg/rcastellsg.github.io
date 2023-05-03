@@ -16,7 +16,7 @@ emdbs:
    - "11911"
 links:
 - name: Lomonossoff lab @ John Innes Centre
-  url: https://www.jic.ac.uk/people/george-lomonosoff/
+  url:
 - name: Press release: Virus infection cycle revealed in dynamic detail
   url: https://www.jic.ac.uk/press-release/virus-infection-cycle-revealed-in-dynamic-detail/
 
