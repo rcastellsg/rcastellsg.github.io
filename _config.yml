@@ -28,7 +28,7 @@ collections:
         affiliates:
                 output: true
         members:
-                output: true
+                output: false
         publications:
                 output: true
         reviews:
