@@ -9,29 +9,13 @@ pmcid: "PMC9140965"
 doi: "https://doi.org/10.1038/s42003-021-02134-w"
 pdf: 
 pdbs:
-   - "7TWF"
-   - "7TWG"
-   - "7TWH"
-   - "7TWI"
-   - "7TWJ"
-   - "7TWN"
-   - "7TWO"
-   - "7TWP"
-   - "7TWQ"
-   - "7TWR"
-   - "7TWS"
-   - "7TWT"
-   - "7TWV"
-   - "7TWW"
-   - "7TWX"
-   - "7TWY"
-   - "7TX0"
-   - "7TX1"
-   - "7TX3"
-   - "7TX4"
-   - "7TX5"
+   - "7ATA"
+   - "7ANM"
+emdbs:
+   - "11830"
+   - "11911"
 links:
-- name: Thompson lab @ UC Merced
+- name: Lomonossoff lab @ John Innes Centre
   url: https://thompsonlab.science/
 - name: Ashworth lab @ UC San Francisco
   url: https://cancer.ucsf.edu/people/profiles/ashworth.alan
