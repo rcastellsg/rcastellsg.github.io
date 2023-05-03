@@ -8,7 +8,7 @@ pmid: #
 pmcid: #"PMC#######"
 biorxiv:
 biorxiv_version: "2022.09.18.508009v1"
-pdf: #"http://cdn.fraserlab.com/publications/2023_taha.pdf"
+pdf: #"http://cdn.fraserlab.com/publications/2022_castells-graells.pdf"
 pdbs:
 links:
   - name: "Celebratory tweets from Yeates Lab"
