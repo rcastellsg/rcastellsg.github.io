@@ -6,7 +6,6 @@ pub_date: '2021-05-24'
 image: '/static/img/pub/2021_castells-graells_cb.png'
 pmid: "35622909"
 pmcid: "PMC9140965"
-doi: "https://doi.org/10.1038/s42003-021-02134-w"
 pdf: 
 pdbs:
    - "7ATA"
