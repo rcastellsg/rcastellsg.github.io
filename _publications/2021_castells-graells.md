@@ -10,10 +10,4 @@ pdf:
 pdbs:
    - "7ATA"
    - "7ANM"
-links:
-- name: Lomonossoff lab @ John Innes Centre
-  url: https://www.jic.ac.uk/people/george-lomonosoff/
-- name: Press release: Virus infection cycle revealed in dynamic detail
-  url: https://www.jic.ac.uk/press-release/virus-infection-cycle-revealed-in-dynamic-detail/
-
 ---
