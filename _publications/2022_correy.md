@@ -1,13 +1,13 @@
 ---
 title: "The mechanisms of catalysis and ligand binding for the SARS-CoV-2 NSP3 macrodomain from neutron and X-ray diffraction at room temperature"
-authors: "**Correy GJ**, Kneller DW, Phillips G, Pant S, Russi S, Cohen AE, Meigs G, Holton JM, Gahbauer S, Thompson MC, Ashworth A, Coates L, Kovalevsky A, Meilleur F, **Fraser JS**"
-journal: "Science Advances"
-pub_date: '2022-05-27'
-image: '/static/img/pub/2022_correy.png'
+authors: "**Castells-Graells R**, Ribeiro JRS, Domitrovic T, Hesketh EL, Scarff CA, Johnson JE, Ranson NA, Lawson DM, Lomonossoff GP"
+journal: "Communications Biology"
+pub_date: '2021-05-24'
+image: '/static/img/pub/2021_castells-graells_cb.png'
 pmid: "35622909"
 pmcid: "PMC9140965"
-biorxiv_version: '2022.02.07.479477v1'
-pdf: "http://cdn.fraserlab.com/publications/2022_correy.pdf"
+doi: "https://doi.org/10.1038/s42003-021-02134-w"
+pdf: 
 pdbs:
    - "7TWF"
    - "7TWG"
