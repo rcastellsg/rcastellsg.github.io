@@ -10,13 +10,7 @@ biorxiv:
 biorxiv_version: "2022.09.18.508009v1"
 pdf: #"http://cdn.fraserlab.com/publications/2023_taha.pdf"
 pdbs:
-  - "8SH6"
-  - "8SH8"
 links:
-  - name: "Celebratory tweetstorm from James Fraser"
-    url: "https://twitter.com/fraser_lab/status/1648477561666801664"
-  - name: "Ott lab @ Gladstone"
-    url: "https://ottlab.gladstone.org"
-  - name: "Alan Ashworth @ UCSF"
-    url: "https://profiles.ucsf.edu/alan.ashworth"
+  - name: "Celebratory tweets from Yeates Lab"
+    url: "https://twitter.com/Yeates_Lab/status/1571940344870375425"
 ---
