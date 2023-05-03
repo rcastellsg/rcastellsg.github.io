@@ -11,9 +11,6 @@ pdf:
 pdbs:
    - "7ATA"
    - "7ANM"
-emdbs:
-   - "11830"
-   - "11911"
 links:
 - name: Lomonossoff lab @ John Innes Centre
   url: https://www.jic.ac.uk/people/george-lomonosoff/
