@@ -16,13 +16,9 @@ emdbs:
    - "11911"
 links:
 - name: Lomonossoff lab @ John Innes Centre
-  url: https://thompsonlab.science/
-- name: Ashworth lab @ UC San Francisco
-  url: https://cancer.ucsf.edu/people/profiles/ashworth.alan
-- name: Oak Ridge National Laboratory
-  url: https://www.ornl.gov/
-- name: Meilleur lab @ North Carolina State University
-  url: https://meilleur.wordpress.ncsu.edu/
-- name: Celebratory Tweetstorm by James Fraser
-  url: https://twitter.com/fraser_lab/status/1491633962015358976
+  url: https://www.jic.ac.uk/people/george-lomonosoff/
+- name: Press release: Virus infection cycle revealed in dynamic detail
+  url: https://www.jic.ac.uk/press-release/virus-infection-cycle-revealed-in-dynamic-detail/
+- name: 
+
 ---
