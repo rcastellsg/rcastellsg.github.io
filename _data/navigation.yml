@@ -2,10 +2,6 @@
   link: "/"
   group: home
 
-- name: bio
-  link: "/bio"
-  group: bio
-
 - name: CV
   link: "/cv"
   group: cv
@@ -19,8 +15,12 @@
   group: publications
 
 - name: teaching
-  link: "/courses"
-  group: courses
+  link: "/teaching"
+  group: teaching
+  
+- name: outreach
+  link: "/outreach"
+  group: outreach
 
 - name: news
   link: "/news"
