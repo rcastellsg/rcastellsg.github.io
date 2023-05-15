@@ -9,6 +9,7 @@ group: home
 <br>
 Hello, I am Dr. Roger Castells-Graells.
 
+
 I am a bioengineer with over 10 years of research experience. I am currently a postdoctoral researcher in the lab of [Prof. Todd Yeates](https://yeateslab.mbi.ucla.edu) at the University of California Los Angeles (UCLA). I received my undergraduate degree in Bioengineering from the Autonomous University of Barcelona (Spain) in 2015, and earned a PhD in Biochemistry from the John Innes Centre (UK) in 2019 under the mentorship of [Prof. George Lomonossoff](https://www.jic.ac.uk/people/george-lomonosoff/).
 {: .welcomefont}
 
